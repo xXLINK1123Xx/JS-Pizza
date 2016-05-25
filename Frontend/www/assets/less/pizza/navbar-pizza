@@ -1,0 +1,27 @@
+
+.header-top-row{
+	width: 100%;
+    font-size: 12px;
+    line-height: 11px;
+    margin: 0;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid;
+    color: #a1a1a1;
+}
+
+.sign-in-button{
+	margin: 5px 20px;
+    float: right;
+}
+
+.site-icon{
+	display: block-inline;
+	float: right;
+	width: 50px;
+}
+
+.main-header-top-items{
+	position: relative;
+    height: 40px;
+}
